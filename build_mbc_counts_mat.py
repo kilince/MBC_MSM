@@ -1,4 +1,4 @@
-##
+###
 # Description: A standalone code which can calculate the Merging Bias Corrected Counts Matrix from WE simulation data (in h5 format)
 #
 # Prerequisites: (i) Cluster labels of each snapshot of the WE data, 
